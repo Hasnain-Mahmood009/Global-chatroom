@@ -141,6 +141,8 @@ body {
 @media (max-width: 768px) {
     body {
         padding: 0;
+        /* height: 110vh;
+        margin-top: -75px; */
     }
     .chat-window {
         width: 100vw;
@@ -151,6 +153,8 @@ body {
         max-width: 85%;
     }
     .chat-input-area {
-        padding-bottom: 25px;
+        padding-bottom: 75px;
+        justify-content: center;
+        /* margin-left: -16px; */
     }
 }
